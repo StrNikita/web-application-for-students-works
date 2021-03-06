@@ -1,0 +1,6 @@
+.aToInfo {
+    cursor: pointer;
+}
+.aToInfo:hover {
+    text-decoration: underline;
+}

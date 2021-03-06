@@ -1,0 +1,18 @@
+.section-link {
+    display: block;
+    width: 400px;
+    height: 400px;
+    color: black;
+    border: 2px solid #333333;
+    text-decoration: none;
+    position: relative;
+}
+.section-link div {
+    position: absolute;
+    width: 95%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #333333;
+}

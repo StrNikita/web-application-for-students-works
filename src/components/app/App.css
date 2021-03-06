@@ -1,0 +1,4 @@
+.section-block {
+    display: flex;
+    justify-content: space-around;
+}
